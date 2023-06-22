@@ -38,27 +38,28 @@ Now let's take a look at the count of breakages per reason.
 
 ![image](https://github.com/ojimenez24/Breakage2022/assets/123837381/375c7038-0bdf-40fc-a63a-1dfb7ad284f3)
 
-Now, let's look at each of the top breakage origins (including 'CUSTOM EYES') by categorizing them and digging more into the type of breakage they produce.
+Now, let's look at each of the top breakage origins by categorizing them and digging more into the type of breakage they produce.
 
 
 
 **Categorical Statistics**
 
-![image](https://user-images.githubusercontent.com/123837381/229610831-a8cd7432-6dd4-45e9-95ac-3a25ea10c1dc.png)
+![image](https://github.com/ojimenez24/Breakage2022/assets/123837381/dc0644f8-8e94-40a3-808f-7b11ea3c0800)
 
-It is interesting to see that the highest (RECEIVED WITH SCRTCH) and second highest reason (BLOWN RUN BKGE) for breakages also come from the place with the most breakage occurrences; other than this very interesting information analyzing each reason it falls outside this exploratory analysis purpose since it is an external source hence, we do not have control over it. Nevertheless, **sharing this information with the external laboratory** could be helpful for them and benefit our laboratory operations in the long run.
+In first place with over 5000 overall breakages we have 'finished edgers'.It is not surprising to find that in 'finished edgers' the second biggest breakage reason "Scratch edging w/oAR" (over 2000) is found. Also this reason is by far the highest compared to the other breakage reasons in 'finished edgers'.
 
-![image](https://user-images.githubusercontent.com/123837381/229612389-01e98a6a-b8e1-41fe-826f-59050389b9f6.png)
+![image](https://github.com/ojimenez24/Breakage2022/assets/123837381/c382a31b-fb3c-4857-b382-bf948e351f24)
 
-The second breakage origin with the most occurrences is the 'poly_coater,' Its highest breakage reason is 'pits' (the 3rd highest breakage reason). On close observation, there is a pattern. While this is not surprising, it is interesting, at the least. **Upgrading the components and enforcing preventive maintenance of the equipment** may reduce the number of breakages
 
-![image](https://user-images.githubusercontent.com/123837381/229896023-b9ceb103-1400-460f-9513-e6d59c9f0147.png)
+The second breakage origin with a little less than 5000 breakage ocurrences is 'DC'. Just as 'finished edgers' it also  contains the highest reason overall 'defective lens front'. Furthermore, similar to 'finished edgers' this is by far the highest reason (close to 2500) compared to the other reasons for breakages coming from 'DC' 
 
-Now let's look at 'DC' (distribution center). It is essential to mention that unlike breakages coming from machines, the breakages from this place are almost entirely caused by human error because they come from computing mistakes (from DC itself or retail) or pulling lenses (retrieving lenses according to service ticket information) mistakes, this includes the top reasons which are: 'COMPUTER WRONG RX' and 'pulled wrong BC.' Therefore, **double-checking everything at every step** may reduce the impact here.
+![image](https://github.com/ojimenez24/Breakage2022/assets/123837381/4e488c53-1784-483e-b67c-111ca6387ef8)
 
-![image](https://user-images.githubusercontent.com/123837381/229900360-b259a98e-8b7e-484a-a736-6823b6256f2d.png)
+In third place with just under 2000 breakage ocurrences we have 'poly coater' and the highest reason by far is 'pits'. Interestngly enought this is the 3rd biggest breakage reason overall.
 
-Continuing with the categorical analysis, next is 'finished edgers.' Simply put, this station cuts the lenses into the frame's shape. Here, the two main breakage reasons are 'Lens SLIPPED offaxis' and 'Edged Small.' While this station requires a more skilled and experimented operator than the polycarbonate coater, it also suffers from machine performance. Therefore, **focusing on improving the components used in the cutting process and training skilled personnel** could reduce breakage occurrences here.
+![image](https://github.com/ojimenez24/Breakage2022/assets/123837381/6dd6cf30-d5f5-4e19-98fa-771ded5fd6f7)
+
+In fourth place, closely following 'poly coater' we have 'ORBIT GEN' with less than 2000 breakage ocurrences. The biggest breakage reason here is 'file hole wrong dir' with around 550 ocurrences
 
 ![image](https://user-images.githubusercontent.com/123837381/229902540-98222a81-d66f-4754-8b02-58661a551c45.png)
 
