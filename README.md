@@ -61,9 +61,9 @@ In third place with just under 2000 breakage ocurrences we have 'poly coater' an
 
 In fourth place, closely following 'poly coater' we have 'ORBIT GEN' with less than 2000 breakage ocurrences. The biggest breakage reason here is 'file hole wrong dir' with around 550 ocurrences
 
-![image](https://user-images.githubusercontent.com/123837381/229902540-98222a81-d66f-4754-8b02-58661a551c45.png)
+![image](https://github.com/ojimenez24/Breakage2022/assets/123837381/1fa172c9-0a23-496c-9de5-4aa31bd22eae)
 
-We have 'ORBIT GEN' (Generator) in the last category. Unlike all other machines, this machine is almost entirely automated and requires minimal human intervention (when functioning as it should). However, the way we troubleshoot problems in the machine is by configuring its settings or replacing external components (more intrusive troubleshooting would require a specialist due to the complexity of the machine). The top reasons are 'No Engraving' and 'GEN power off.' As mentioned, we can configure the setting to solve these problems or change the engraving tool. However, **setting up bimonthly or trimonthly specialist visits or getting personnel certified to troubleshoot the machine correctly** could reduce the number of breakages here.
+In fifth place we have 'A/R lab' with a breakage count around 1500. The biggest breakage reason here
 
 **Time Statistics**
 
