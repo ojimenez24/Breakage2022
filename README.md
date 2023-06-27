@@ -105,7 +105,7 @@ Finally, as a bonus let's plot the volume of breakages from each weekday for eac
 It's interesting to see that the highest amount of breakages per day per month happened on the Wednesdays of August. However, it is not very suprirising to see this becuse as we saw earlier, the month with most breakages is August.
 
 ### Usage
-For the entire process and a detailed description of each step, use [nbviewer](https://nbviewer.org/github/ojimenez24/Breakage-Analysis/blob/main/Data%20Science%20Project%20-%20Breakages%20EA.ipynb)
+For the entire process and a detailed description of each step, use [nbviewer](https://nbviewer.org/github/ojimenez24/Breakage2022/blob/main/Data%20Science%20Project%20-%20Breakages%20EA.ipynb)
 
 Anybody can use this project as they see fit as long as it is liked to this repository; there is no need to ask for permission.
 
