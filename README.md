@@ -63,48 +63,46 @@ In fourth place, closely following 'poly coater' we have 'ORBIT GEN' with less t
 
 ![image](https://github.com/ojimenez24/Breakage2022/assets/123837381/1fa172c9-0a23-496c-9de5-4aa31bd22eae)
 
-In fifth place we have 'A/R lab' with a breakage count around 1500. The biggest breakage reason here
+In fifth place we have 'A/R lab' with a breakage count around 1500. The biggest breakage reason here is 'poor coating issue'
 
 **Time Statistics**
 
 After analyzing every significant breakage origin closely, we can move into the time and frequency the breakages happen to have a broader view and look for clues or patterns regarding the time of the year and monthly and daily breakage volume.
 
-![image](https://user-images.githubusercontent.com/123837381/230182980-01c58655-cb77-4248-9e00-dc1ee0c71006.png)
+![image](https://github.com/ojimenez24/Breakage2022/assets/123837381/187d17c4-ee01-43d1-9a44-e3969f32b9ad)
 
-Looking at the graph above, we can see how breakage occurrences are the highest in January and part of February, which makes sense since these months are some of our busiest in the year. After this period, there was a dramatic drop in breakages, which reached its lowest point in May (2020 was when we halted almost all of our operations for two entire months, so it is unsurprising to see such a dramatic change).
+Looking at the graph above, we can see how breakage occurrences are the highest in August with over 1750 breakages and is closely followed by March with a breakage count over 1750 as well.
 
+Now, lets examine the same data in a linear way to see the changes more clearly.
 
-![image](https://user-images.githubusercontent.com/123837381/230186500-7d70e827-cf38-4837-83f6-f372179fac46.png)
+![image](https://github.com/ojimenez24/Breakage2022/assets/123837381/24aa7fb3-4952-4ed0-bf7a-2e88c88363c0)
 
-This linear plot shows that there are some outliers there.
+By observing the graph above, we can tell that there seems to bea downward trend meaning that the volume of breakages is decreasing in general, if we use a line plot we can confirm this.
 
-Let's take a look at each significant breakage reason thorough the year.
+![image](https://github.com/ojimenez24/Breakage2022/assets/12383738
 
-![image](https://user-images.githubusercontent.com/123837381/230193999-f6dff9c4-6652-4c95-ad2e-1e9d086f5907.png)
+The plot above clearly shows a downward trend and also the outliers throughout the year.
 
-![image](https://user-images.githubusercontent.com/123837381/230194077-58877012-f030-41d1-912d-c79c817a5726.png)
+Now lets take a look at the top breakage origin and the 3 biggest breakage reasons and their ocurrences throughout the year
 
-![image](https://user-images.githubusercontent.com/123837381/230194188-ff3fd37e-b766-473a-bf72-c4630eaa83d2.png)
-
-![image](https://user-images.githubusercontent.com/123837381/230194253-07f04c00-a36a-4c4c-825d-eba4ebf2e83e.png)
-
-As we can see, the quarantine period from the middle of March to the end of May is present in every plot above.
-
-Now, let's downscale a bit, look at the day level, and see which days of the week generally have the most breakages.
-
-![image](https://user-images.githubusercontent.com/123837381/230658279-21287987-dc55-4d2b-aadc-b2c65e76c57f.png)
-
-While I do not know any specific reason for these daily results, this information is good to reference for future operations.
-
-Finally, let's plot the volume of breakages from each weekday for each month using a heatmap.
-
-![image](https://user-images.githubusercontent.com/123837381/230659394-5552add2-dc0b-4dab-8796-27bd6d7216f9.png)
-
-It's interesting to see that the highest amount of breakages per day per month happened on Thursday, Friday, and Tuesday of January and February. However, it does for the busyness at the beginning of the year.
+![image](https://github.com/ojimenez24/Breakage2022/assets/123837381/8fcdf915-0bde-44db-adad-5707c361b813)
 
 
+![image](https://github.com/ojimenez24/Breakage2022/assets/123837381/89b00309-d8cb-4408-9dc2-b082d82db885)
 
 
+![image](https://github.com/ojimenez24/Breakage2022/assets/123837381/63dbf4a4-f4ac-4bba-aeb8-8d68f69aab4b)
+
+
+![image](https://github.com/ojimenez24/Breakage2022/assets/123837381/7502ad95-a381-475e-be26-a2d7dfd50dc2)
+
+As we can see, the ocurrences differ from reason to reason and there is not a specific time of the year where breakage ocurrences happen the most.
+
+Finally, as a bonus let's plot the volume of breakages from each weekday for each month using a heatmap.
+
+![image](https://github.com/ojimenez24/Breakage2022/assets/123837381/900b7eaa-79a9-4537-aa59-1027a0e53d48)
+
+It's interesting to see that the highest amount of breakages per day per month happened on the Wednesdays of August. However, it is not very suprirising to see this becuse as we saw earlier, the month with most breakages is August.
 
 ### Usage
 For the entire process and a detailed description of each step, use [nbviewer](https://nbviewer.org/github/ojimenez24/Breakage-Analysis/blob/main/Data%20Science%20Project%20-%20Breakages%20EA.ipynb)
